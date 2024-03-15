@@ -75,21 +75,21 @@
 ## 🎥 시연 GIF | Testing
 |메인화면|마이페이지|
 |:---:|:---:|
-|<img src="https://drive.google.com/uc?export=view&id=10OyU4Oiheu91j5xJsvEDpAtToBTNcfSU" width="420px" height="220px">|<img src="https://drive.google.com/uc?export=view&id=1Zv-7G5sMmOG2NAcSWmsarj1THAor3mR3" width="420px" height="220px">|
+|<img src="https://drive.google.com/uc?export=view&id=10OyU4Oiheu91j5xJsvEDpAtToBTNcfSU" width="500px" height="250px">|<img src="https://drive.google.com/uc?export=view&id=1Zv-7G5sMmOG2NAcSWmsarj1THAor3mR3" width="500px" height="250px">|
 
 |MBTI 테스트|테스트 결과|
 |:---:|:---:|
-|<img src="https://drive.google.com/uc?export=view&id=1ZkNeJwT3Q47nWvFM_a2dh1EyMGtCYWsL" width="420px" height="220px">|<img src="https://drive.google.com/uc?export=view&id=1k_36MVCqpMvP7MeJWqXfq_uNOABAQWGo" width="400px" height="220px">|
+|<img src="https://drive.google.com/uc?export=view&id=1ZkNeJwT3Q47nWvFM_a2dh1EyMGtCYWsL" width="500px" height="250px">|<img src="https://drive.google.com/uc?export=view&id=1k_36MVCqpMvP7MeJWqXfq_uNOABAQWGo" width="500px" height="250px">|
 
 |매칭 신청|매칭 코인 부족|
 |:---:|:---:|
-|<img src="https://drive.google.com/uc?export=view&id=1GSzA_SpZ1DgkW-gBIqejnX7mRopyQYCK" width="420px" height="220px">|<img src="https://drive.google.com/uc?export=view&id=1XBZDemzi6wwKLL4MxsI81a2v5meFT2zz" width="400px" height="220px">|
+|<img src="https://drive.google.com/uc?export=view&id=1GSzA_SpZ1DgkW-gBIqejnX7mRopyQYCK" width="500px" height="250px">|<img src="https://drive.google.com/uc?export=view&id=1XBZDemzi6wwKLL4MxsI81a2v5meFT2zz" width="500px" height="250px">|
 
 |채팅 및 채팅 가이드|커플 후기|
 |:---:|:---:|
-|<img src="https://drive.google.com/uc?export=view&id=1cFfVzyLbW-Z0uYTvP5VBPC1QiMhqWwnD" width="420px" height="220px">|<img src="https://drive.google.com/uc?export=view&id=1lgiyxrFziEtek5-E0qkJTxGvv0bUSAxg" width="400px" height="220px">|
+|<img src="https://drive.google.com/uc?export=view&id=1cFfVzyLbW-Z0uYTvP5VBPC1QiMhqWwnD" width="500px" height="250px">|<img src="https://drive.google.com/uc?export=view&id=1lgiyxrFziEtek5-E0qkJTxGvv0bUSAxg" width="500px" height="250px">|
 
 |소개하기|공지사항|
 |:---:|:---:|
-|<img src="https://drive.google.com/uc?export=view&id=1ChbJJEA12usMUOkA9QAB_ttsj554S_0G" width="420px" height="220px">|<img src="https://drive.google.com/uc?export=view&id=1H2dR8YaD3hMy8vNwbE-EEpuR-RfjZaI-" width="400px" height="220px">|
+|<img src="https://drive.google.com/uc?export=view&id=1ChbJJEA12usMUOkA9QAB_ttsj554S_0G" width="500px" height="250px">|<img src="https://drive.google.com/uc?export=view&id=1H2dR8YaD3hMy8vNwbE-EEpuR-RfjZaI-" width="500px" height="250px">|
 <br><br><br><br>
