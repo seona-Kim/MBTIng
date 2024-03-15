@@ -83,6 +83,6 @@
 |채팅 및 채팅 가이드|커플 후기|
 |<img src="https://drive.google.com/uc?export=view&id=1cFfVzyLbW-Z0uYTvP5VBPC1QiMhqWwnD" width="400px" height="220px">|<img src="https://drive.google.com/uc?export=view&id=1lgiyxrFziEtek5-E0qkJTxGvv0bUSAxg" width="400px" height="220px">|
 |소개하기|공지사항|
-|<img src="https://drive.google.com/uc?export=view&id=1ChbJJEA12usMUOkA9QAB_ttsj554S_0G" width="400px" height="220px">
-|<img src="https://drive.google.com/uc?export=view&id=1H2dR8YaD3hMy8vNwbE-EEpuR-RfjZaI-" width="400px" height="220px">
+|<img src="https://drive.google.com/uc?export=view&id=1ChbJJEA12usMUOkA9QAB_ttsj554S_0G" width="400px" height="220px">|
+|<img src="https://drive.google.com/uc?export=view&id=1H2dR8YaD3hMy8vNwbE-EEpuR-RfjZaI-" width="400px" height="220px">|
 <br><br><br><br>
