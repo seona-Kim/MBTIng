@@ -1,4 +1,5 @@
-![image](https://github.com/seona-Kim/MBTIng/assets/149765577/457213f2-e05e-465f-9a33-a237105e341f)
+![image](https://github.com/seona-Kim/MBTIng/assets/149765577/e8929d79-e71a-4ec4-9e3c-9e5b0e85e5bc)
+
 <h3>MBTI 테스트를 기반으로 매칭시켜 주는 소개팅 사이트</h3> 
 
 ## 목차 | Contents
