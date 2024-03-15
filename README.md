@@ -92,4 +92,5 @@
 |소개하기|공지사항|
 |:---:|:---:|
 |<img src="https://drive.google.com/uc?export=view&id=1ChbJJEA12usMUOkA9QAB_ttsj554S_0G" width="500px" height="250px">|<img src="https://drive.google.com/uc?export=view&id=1H2dR8YaD3hMy8vNwbE-EEpuR-RfjZaI-" width="500px" height="250px">|
+
 <br><br><br><br>
