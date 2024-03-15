@@ -11,7 +11,7 @@
 ### 5️⃣ [시연 GIF](#-시연-gif--testing) <br/>
 <br><br><br><br>
 ## 📘 프로젝트 소개 | Project Introduction
-### MeetGo
+### MBTIng
 ✅ MBTI와 소개팅의 합성어
 - 사이트 내에서 MBTI 테스트를 할 수 있어요 ✍🏻
 - 테스트 결과로 나와 맞는 MBTI를 가진 사람과 매칭이 가능해요 💌
