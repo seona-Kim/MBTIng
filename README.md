@@ -1,6 +1,13 @@
 <p align="center"><img align="center" width="500" alt="image" src="https://github.com/mingMy-00/01_MBTIng_Workspace/assets/149574203/a0db0242-9877-463f-933b-77cc49f6a6c6" border-radius="20px"></p>
-<h3>MBTI 테스트를 기반으로 매칭시켜 주는 소개팅 사이</h3> 
+<h3>MBTI 테스트를 기반으로 매칭시켜 주는 소개팅 사이트</h3> 
 <br/>
+
+## 목차
+[1.](#개발을-하고-싶어요)
+[2.코딩을 잘하고 싶어요](#coding을-잘하고-싶어요)
+
+## 개발을 하고 싶어요
+## Coding을 잘하고 싶어요
 
 
 <pre>
