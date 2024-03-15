@@ -71,6 +71,7 @@
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 <br><br><br><br>
+
 ## 🎥 시연 GIF | Testing
 |메인화면|마이페이지|
 |:---:|:---:|
