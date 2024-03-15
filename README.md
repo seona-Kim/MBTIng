@@ -1,6 +1,6 @@
+# MBTIng
 ![image](https://github.com/seona-Kim/MBTIng/assets/149765577/e8929d79-e71a-4ec4-9e3c-9e5b0e85e5bc)
-
-<h3>MBTI 테스트를 기반으로 매칭시켜 주는 소개팅 사이트</h3> 
+<br><br><br>
 
 ## 목차 | Contents
 ### 1️⃣ [프로젝트 소개](#-프로젝트-소개--project-introduction) <br/>
