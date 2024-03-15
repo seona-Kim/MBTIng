@@ -2,7 +2,7 @@
 ![image](https://github.com/seona-Kim/MBTIng/assets/149765577/e8929d79-e71a-4ec4-9e3c-9e5b0e85e5bc)
 <br><br><br>
 
-## 목차 | Contents
+## 🔭 목차 | Contents
 ### 1️⃣ [프로젝트 소개](#-프로젝트-소개--project-introduction) <br/>
 ### 2️⃣ [개발 기간](#-개발-기간--project-period) <br/>
 ### 3️⃣ [ERD & UML](#-erd--uml--erd-uml) <br/>
