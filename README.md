@@ -22,9 +22,11 @@
 <br><br><br><br>
 ## 🌱 ERD & UML | ERD UML
 ### ERD
-![Untitled](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fce817064-49d9-49dd-be45-83b7a211b79b%2F49545777-6b72-4beb-949a-041b661afa78%2FUntitled.png?table=block&id=82d49cb4-95c7-4097-a826-c0e2e95ec45b&spaceId=ce817064-49d9-49dd-be45-83b7a211b79b&width=2000&userId=9ab21f2b-0184-4f4a-b5d0-daec64f227c6&cache=v2)
+![image](https://github.com/seona-Kim/MBTIng/assets/149765577/87dfabc3-65b1-4dbe-b227-426fbff9a54e)
+
 ### UML
-![Untitled](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fce817064-49d9-49dd-be45-83b7a211b79b%2Faf67d12c-1378-4342-b27c-a228f79d1a82%2FUntitled.png?table=block&id=478bfeaf-d3be-4775-b91c-a5ee6fdf05e6&spaceId=ce817064-49d9-49dd-be45-83b7a211b79b&width=2000&userId=9ab21f2b-0184-4f4a-b5d0-daec64f227c6&cache=v2)
+![image](https://github.com/seona-Kim/MBTIng/assets/149765577/d1e70a71-05ac-4dc3-8989-847cf7211b53)
+
 <br><br><br><br>
 ## 🌱 주요 기능 | Main Function
 ### ✔️ MBTI TEST
@@ -59,6 +61,7 @@
   <img src="https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white">
   <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white">
 </div>
+
 ### 개발 환경 | Environment
 <div align=center> 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
