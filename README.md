@@ -15,4 +15,5 @@
 </pre>
 
 |관리자 메인|관리자 계약서 관리|
-|<img src="https://drive.google.com/uc?export=view&id=1A6o9gwO5YLf7UITdnIB78fw-ekCt6bin" width="400px" height="220px">|<img src="https://drive.google.com/uc?export=view&id=1reIeOuHu0M1vRPwuX6-GFSWA5AYMoLli" width="400px" height="220px">
+|<img src="https://drive.google.com/uc?export=view&id=1vgCILrWoyahQqbrAYyM8-JwGpPtWLKft" width="400px" height="220px">|<img src="https://drive.google.com/uc?export=view&id=1reIeOuHu0M1vRPwuX6-GFSWA5AYMoLli" width="400px" height="220px">
+https://drive.google.com/file/d/1vgCILrWoyahQqbrAYyM8-JwGpPtWLKft/view?usp=drive_link
