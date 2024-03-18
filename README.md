@@ -6,9 +6,9 @@
 ### 1️⃣ [프로젝트 소개](#-프로젝트-소개--project-introduction) <br/>
 ### 2️⃣ [개발 기간](#-개발-기간--project-period) <br/>
 ### 3️⃣ [ERD & UML](#-erd--uml--erd-uml) <br/>
-### 3️⃣ [주요 기능](#-주요-기능--main-function) <br/>
-### 4️⃣ [기술 스택](#-기술-스택--technology-stack) <br/>
-### 5️⃣ [시연 GIF](#-시연-gif--testing) <br/>
+### 4️⃣ [주요 기능](#-주요-기능--main-function) <br/>
+### 5️⃣ [기술 스택](#-기술-스택--technology-stack) <br/>
+### 6️⃣ [시연 GIF](#-시연-gif--testing) <br/>
 <br><br><br><br>
 ## 📘 프로젝트 소개 | Project Introduction
 ### MBTIng
